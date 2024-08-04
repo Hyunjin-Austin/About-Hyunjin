@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hyunjin-Austin
 - 👀 I’m interested in Public Health and Data Scientist
 - 🌱 I’m currently learning machine learning and deep learning 
-- 📫 How to reach me: austinkangbd@gmail.com
+- 📫 How to reach me(LinkedIn): www.linkedin.com/in/austinkang0702
 - 😄 Tool in use: Python(pandas, scikit-learn, seaborn) and SQL
 
 <!---
